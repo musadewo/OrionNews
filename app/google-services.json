@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862997939127",
+    "project_id": "orionnews-8eed1",
+    "storage_bucket": "orionnews-8eed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862997939127:android:cfda60302a88d1c1569e32",
+        "android_client_info": {
+          "package_name": "com.ilyushin.orionnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862997939127-5254k4r5s92a630l9abpphq3mda3744d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhA4ZG59PuTBUMGf74UtDIR4kwnNsruAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862997939127-5254k4r5s92a630l9abpphq3mda3744d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
